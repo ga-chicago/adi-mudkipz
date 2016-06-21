@@ -8,11 +8,11 @@ This week's content aligns with chapters 11 (SQLite Databases) and 12 (Cursors a
 
 #### Tuesday
 
-* Complete SQLite Lab
+* Complete SQLite Lab - https://github.com/ga-adi/use-sql-to-find-carmen-sandiego-lab
 
 #### Wednesday
 
-* Complete Cursor Adapter Lab
+* Complete Cursor Adapter Lab - https://github.com/ga-adi/cursor-adapter-lab
 
 #### Thursday
 

@@ -12,11 +12,16 @@
 
 #### Tuesday
 
+-
 
 #### Wednesday
 
+-
 
 #### Thursday
 
+-
 
 #### Weekend
+
+-

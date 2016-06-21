@@ -17,6 +17,7 @@
   * [Week 2: 6/6/16](0_homework/week-2.md)
   * [Week 3: 6/13/16](0_homework/week-3.md)
   * [Week 4: 6/20/16](0_homework/week-4.md)
+  * [Week 5: 6/27/16](0_homework/week-5.md)
 * [iv. Installfest](0_installfest/README.md)
   * [Why Android?](0_installfest/why_android.md)
   * [Installing Java](0_installfest/installing-java.md)

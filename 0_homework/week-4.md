@@ -12,7 +12,7 @@ This week's content aligns with chapters 11 (SQLite Databases) and 12 (Cursors a
 
 #### Wednesday
 
-* Complete Cursor Adapter Lab - https://github.com/ga-adi/cursor-adapter-lab
+* Complete Cursor Lab - https://github.com/ga-chicago/cursor-lab
 
 #### Thursday
 

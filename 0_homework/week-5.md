@@ -12,17 +12,17 @@
 
 #### Tuesday
 
--
+- Cursor Adapter Lab
+- _Outcomes_: 3 job listings + cover letter.
 
 #### Wednesday
 
--
+- Search Lab
 
 #### Thursday
 
--
+- Testing Lab
 
 #### Weekend
 
--
- 
+- **Project**: Work toward the basic version of the user interface for your app, with placeholder data and resources to fill out your screens.

@@ -12,6 +12,7 @@
   * [Week 2: 6/6/16](00-weekly-schedules/week-2.md)
   * [Week 3: 6/13/16](00-weekly-schedules/week-3.md)
   * [Week 4: 6/20/16](00-weekly-schedules/week-4.md)
+  * [Week 5: 6/27/16](00-weekly-schedules/week-5.md)
 * [iii. Homework](0_onboarding/homework_submission.md)
   * [Week 1: 31/5/16](0_homework/week-1.md)
   * [Week 2: 6/6/16](0_homework/week-2.md)

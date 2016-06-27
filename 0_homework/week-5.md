@@ -12,7 +12,7 @@
 
 #### Tuesday
 
-- Cursor Adapter Lab
+- Cursor Adapter Lab: https://github.com/ga-adi/cursor-adapter-lab
 - _Outcomes_: 3 job listings + cover letter.
 
 #### Wednesday

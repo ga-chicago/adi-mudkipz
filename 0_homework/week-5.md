@@ -17,7 +17,7 @@
 
 #### Wednesday
 
-- Search Lab
+- Search Lab: https://github.com/ga-chicago/android-search-lab
 
 #### Thursday
 
